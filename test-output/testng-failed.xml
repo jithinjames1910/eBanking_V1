@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [eBanking Test Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.eBank.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="eBanking Login Page Test Cases(failed)">
+    <classes>
+      <class name="com.eBank.testCases.LoginPageTest">
+        <methods>
+          <include name="loginTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.eBank.testCases.LoginPageTest -->
+    </classes>
+  </test> <!-- eBanking Login Page Test Cases(failed) -->
+</suite> <!-- Failed suite [eBanking Test Suite] -->
+	

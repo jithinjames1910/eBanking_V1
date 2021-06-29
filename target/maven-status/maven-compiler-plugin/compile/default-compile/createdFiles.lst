@@ -1,0 +1,7 @@
+com\eBanking\BasePage\BasePageClass.class
+com\eBank\utilities\ExcelUtil.class
+com\eBanking\pageObjects\NewCustomerPage.class
+com\eBank\utilities\Reporting.class
+com\eBank\utilities\ScreenShot.class
+com\eBanking\pageObjects\HomePage.class
+com\eBanking\pageObjects\LoginPage.class

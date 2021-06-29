@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="eBanking Test Suite" duration-ms="18654" started-at="2021-06-27T19:47:11Z" finished-at="2021-06-27T19:47:29Z">
+    <groups>
+    </groups>
+    <test name="eBanking Login Page Test Cases" duration-ms="18654" started-at="2021-06-27T19:47:11Z" finished-at="2021-06-27T19:47:29Z">
+      <class name="com.eBank.testCases.NewCustomerTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.eBank.testCases.NewCustomerTest@4c6e276e]" name="setUp" is-config="true" duration-ms="2975" started-at="2021-06-27T19:47:16Z" finished-at="2021-06-27T19:47:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addNewCustomer(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.eBank.testCases.NewCustomerTest@4c6e276e]" name="addNewCustomer" duration-ms="1435" started-at="2021-06-27T19:47:19Z" data-provider="getExcelValue" finished-at="2021-06-27T19:47:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jithin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[001994-09-13]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Panthalanickal (), kalayanthani]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Thodupuzha]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Kerala]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[685588.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[jithin1910@gmail.com]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[jithin1010]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.eBank.testCases.NewCustomerTest@4c6e276e]" name="tearDown" is-config="true" duration-ms="81" started-at="2021-06-27T19:47:21Z" finished-at="2021-06-27T19:47:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.eBank.testCases.NewCustomerTest@4c6e276e]" name="setUp" is-config="true" duration-ms="2826" started-at="2021-06-27T19:47:21Z" finished-at="2021-06-27T19:47:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addNewCustomer(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.eBank.testCases.NewCustomerTest@4c6e276e]" name="addNewCustomer" duration-ms="1450" started-at="2021-06-27T19:47:23Z" data-provider="getExcelValue" finished-at="2021-06-27T19:47:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tony]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[001995-08-02]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Kariamadathil]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Thodupuzha]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Kerala]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[685588.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[9.400057394E9]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[tony@gmail.com]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[tony00]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.eBank.testCases.NewCustomerTest@4c6e276e]" name="tearDown" is-config="true" duration-ms="78" started-at="2021-06-27T19:47:25Z" finished-at="2021-06-27T19:47:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.eBank.testCases.NewCustomerTest@4c6e276e]" name="setUp" is-config="true" duration-ms="2926" started-at="2021-06-27T19:47:25Z" finished-at="2021-06-27T19:47:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addNewCustomer(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.eBank.testCases.NewCustomerTest@4c6e276e]" name="addNewCustomer" duration-ms="1349" started-at="2021-06-27T19:47:28Z" data-provider="getExcelValue" finished-at="2021-06-27T19:47:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kevin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[001995-08-19]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Manisseriyil]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Alakodu]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Kerala]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[685587.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[123.0]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[kevin@gmail.com]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[kevin00]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.eBank.testCases.NewCustomerTest@4c6e276e]" name="tearDown" is-config="true" duration-ms="79" started-at="2021-06-27T19:47:29Z" finished-at="2021-06-27T19:47:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.eBank.testCases.NewCustomerTest -->
+      <class name="com.eBank.testCases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.eBank.testCases.LoginPageTest@45f45fa1]" name="setUp" is-config="true" duration-ms="3425" started-at="2021-06-27T19:47:11Z" finished-at="2021-06-27T19:47:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:com.eBank.testCases.LoginPageTest@45f45fa1]" name="loginTest" duration-ms="759" started-at="2021-06-27T19:47:14Z" finished-at="2021-06-27T19:47:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.eBank.testCases.LoginPageTest@45f45fa1]" name="tearDown" is-config="true" duration-ms="80" started-at="2021-06-27T19:47:15Z" finished-at="2021-06-27T19:47:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.eBank.testCases.LoginPageTest -->
+    </test> <!-- eBanking Login Page Test Cases -->
+  </suite> <!-- eBanking Test Suite -->
+</testng-results>
